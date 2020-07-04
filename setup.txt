@@ -1,0 +1,9 @@
+HELPER LINKS:
+
+https://www.pcworld.com/article/3176712/how-to-format-an-sd-card-in-linux.html
+https://askubuntu.com/questions/95391/how-do-i-mount-an-sd-card
+https://scribles.net/accessing-sd-card-from-linux-virtualbox-guest-on-windows-host/
+https://www.centennialsoftwaresolutions.com/post/sd-card-access-from-ubuntu-16-04-3-on-virtualbox-on-windows-7
+https://scribles.net/accessing-sd-card-from-linux-virtualbox-guest-on-windows-host/
+https://superuser.com/questions/373463/how-to-access-an-sd-card-from-a-virtual-machine
+http://rizwanansari.net/access-sd-card-on-linux-from-windows-using-virtualbox/
